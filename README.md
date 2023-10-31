@@ -4,17 +4,17 @@
 
 Descrição do Jogo
 
--- Como jogar
+- Como jogar
     O jogo começa com um conjunto de cartas viradas para baixo. Cada carta tem um emoji e cada emoji tem um par correspondente. O objetivo do jogo é encontrar todos os pares de emojis.
 
     Quando você clica em uma carta, ela vira para revelar o emoji. Você pode virar duas cartas por vez. Se as duas cartas viradas tiverem o mesmo emoji, elas permanecerão viradas para cima. Se não, elas serão viradas para baixo novamente.
 
     O jogo continua até que todas as cartas estejam viradas para cima, o que significa que você encontrou todos os pares de emojis. Quando todas as cartas estiverem viradas para cima, uma mensagem será exibida para parabenizá-lo por vencer o jogo.
 
-    -- Recursos
-        -- O jogo usa emojis como símbolos nas cartas, tornando-o colorido e atraente.
-        -- As cartas são embaralhadas a cada novo jogo, então cada rodada é um novo desafio.
-        -- O código é simples e fácil de entender, tornando-o um bom projeto para aprender programação web.
+    - Recursos
+        - O jogo usa emojis como símbolos nas cartas, tornando-o colorido e atraente.
+        - As cartas são embaralhadas a cada novo jogo, então cada rodada é um novo desafio.
+        - O código é simples e fácil de entender, tornando-o um bom projeto para aprender programação web.
 
 Espero que você se divirta jogando este Jogo da Memória Emoji! 😊
 # Pré-Requisitos
